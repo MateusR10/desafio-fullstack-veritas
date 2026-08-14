@@ -14,7 +14,7 @@ A aplicação conta com um CRUD completo de tarefas integradas:
 
 ---
 
-## Arquitetura e Tecnologias
+## 🏗️ Arquiteturas e Tecnologias
 
 - **Backend:** Go (Golang) com pacote nativo `net/http`, gerenciamento de concorrência via `sync.Mutex` e controle de CORS.
 - **Frontend:** React com Vite, Hooks (`useState`, `useEffect`) e requisições HTTP via `Fetch API`.
